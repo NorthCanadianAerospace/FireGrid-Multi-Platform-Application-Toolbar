@@ -1,2 +1,154 @@
 # FireGrid-Multi-Platform-Application-Toolbar
-FireGrid Multi-Platform/Multi-Language Application Toolbar with all major front-office/back-office, multimedia and engineering applications built-in that are needed to create and run a business or develop a product!
+FireGrid Multi-Platform/Multi-Language Application Toolbar with all major front-office/back-office, multimedia and engineering applications built-in that are needed to create and run a business or develop a product
+
+You can see a preview of the marketing text for the fully-ITAR-free, all-Canadian-designed and coded application toolbar, social media system and web data server system below: 
+
+North Canadian Aerospace, a Vancouver, British Columbia, Canada-based Aerospace Company introduces the FireGrid Multi-Application Toolbar System!
+
+The FireGrid System is a Cloud-in-a-Box application that has every major type of front-office, back-office and engineering application needed to automate and run a one-person home business, a medium-sized business and all the way up to the largest multi-million employee global corporation or NGO.
+
+FureGrid creates your own private cloud supercomputer. It contains the world’s most advanced database, audio, video and text management, data storage and data compression system ever created, allow a doubling of your storage system capacity merely by switching over to our fully-encrypted URF (Universal Resource File) data storage container format. It is the only distributed object-oriented file system that encapsulates all the normal data file and folder management technologies that you expect in modern database management systems, with the added ability of super-strength, always-on Quantum-computing-resistant data encryption and multi-user, multi-application access control to secure your folders, files and data down to the individual record field-level for EVERY single user and group-of-users!
+
+FireGrid is the only system that integrates and deploys end-user applications onto multiple devices and multiple operating systems, all derived from a multi-platform-centric single code base that has built-in auto-gridding so that FireGrid can do supercomputer-level processing of media files, text and metadata within the largest databases and the largest user-groups that can span over multiple countries and global wide-area networks, or on your own home-based CPU, GPU and DSP grid system.
+
+FireGrid is the only software system that combines a data server, a web server, an email server, an interactive audio/video/text messaging/whiteboard system, a multi-channel media streamer and a multi-client social media applications server into a single system that is multi-platform and multi-language ready from day one of your application deployment! You want easy of deployment and ease-of-use? You’ve Got It Here!
+
+FireGrid is the Next Generation fully-ITAR-free Grid Processing And Multimedia Processing Engine designed and coded by North Canadian Aerospace which is a Vancouver, Canada located developer of interactive, multimedia-based information and hardware systems that allow subject matter experts and graphic artists to create highly customized, graphical & video-intensive, multimedia distribution, display & control programs for customers in the broadcast, education, transportation, engineering, process sciences, manufacturing and aerospace industries. 
+
+The FireGrid Application Toolbar contains the following built-in applications and server systems:
+
+1) Secure and Always Encrypted Web Browser Client with real-time 2D/3D immersive graphics, video, audio, metadata and AR/VR environment display system for secured front-line access, organizational and employee training, product display and simulation, and global user gameplay that has an advanced built-in ObjectPascal scripting system allowing for easy-to-read and understandable scripting code that can be created once and run anywhere for rich media display and distribution to make your websites dynamic and highly-graphical with automatic multi-language support and auto-scalable data and code distribution architecture allowing up to Billions of simultaneous users on your FireGrid-created websites.
+
+2) Secure and Always Encrypted Email Client with secured and verified document created and distribution using timed and immediate send/receive/acknowledgement tokens that allow for secured, fully-encrypted and verified peer-to-peer communications that need NO SERVER at all. Messages can be directly sent to any desired FireGrid Application Toolbar which will take care of all security, authorization and acknowledgement. Messages cannot be intercepted, read or attacked using man-in-the-middle or deep-packet-inspection systems. They are fully encrypted with anti-quantum-computer-capable data scrambling systems allowing for real-time messaging with fully-encrypted attachments that offer truly secure peer-to-peer text and document communications. 
+
+3) Word Processor with Long-Form Desktop Publishing creation and secured documents management and distribution system to allow creation of short-form and long-form technical manuals, instruction manuals, online and printed catalogues, non-fiction textbooks, fiction novels and other printed text-oriented media that can be managed, updated, secured and distributed from a central location and then distributed peer-to-peer for maximum document security.
+
+4) Spreadsheets And Charting system lets you create the largest multi-quadrillion-cells worth of the most complex and fastest scientific, mathematical and financial calculations, extrapolations and simulations possible using all available computing horsepower to simulate every major scenario at a numeric precision of up to 128-bits and 256-bits wide per value for the ultimate in scientific, mathematical and financial modelling capabilities and graphical/charting output designed for local and global presentation and understanding. The spreadsheets support multiple-dimensions and layering with individual data fields allowed to have entire layers of calculations and even other external spreadsheets behind them.
+
+5) Dynamic Presentation Maker lets you create and present dynamic and engaging short-form and long-form presentations with multi-channel video and audio support and allows control of real-world machine devices and peripherals with local and global end-user access and real-time text/audio/video commentary and feedback.
+
+6) Calendar And Reminders System for local and global access for effective time management with secured local and global access and distribution to allow small to ultra-large organizations to schedule their executives, employees, contractors, clients, suppliers and entire projects with precision and predictable results that easily satisfy internal and external due-diligence requirements. Extensive online and printable charts and timelines make even the longest and largest of projects easy to visualize and understand. All the major 1, 2, 3, 5, 10, 15, 20, 30 minute and hourly, daily, weekly, bi0weekly, monthly, bi-monthly and yearly scheduling blocks are supported along with support for dynamically-created and pre-done hourly charging rates to ensure personnel costs are fully accounted for and saved in a secured manner for cost-accounting purposes and for export to internal and external accounting systems.
+
+7) Accounting And Finances System with extensive built-in Sales, Expenses, Receivables, Auction, Lease, Rental and Inventory, Insurance and shipping/receiving management along with multi-country/multi-currency online payments and financial tracking system using always-encrypted customer and contacts information management, along with support for internal and external accounting data export and multi-year archiving for multi-level due diligence purposes using generally accepted accounting principles and adhering to local municipal, state, provincial, regional, national and international legal, accounting and financial reporting and taxation/customs/import/export/insurance standards.
+
+8) Always-encrypted high-frame rate, ultra high-definition Video Phone And Text Messaging with global whiteboard communications and real-time documents exchange system and multi-format multimedia playback/recording system with multi-monitor, 360-degree surround view and multi-channel surround-sound support for peer-to-peer calls and group-based video/voice/text calling, real-time documents distribution and exchange, and for AR/VR learning applications and immersive worldwide communications support along with live or pre-recorded annotations, remarks, commentary and updates.
+
+9) Video Timeline Editor with support for multi-channel and multi-layer 2D/3D and 360-degree Surround-View video creation, editing, output and global secured distribution at sample rates up to 16 bits per colour and alpha channel with support for 64-bits per RGBA/YcbCrA pixel at frame rates up to 10,000 fps at resolutions up to industry standard DCI-16k (16384 by 8640) pixel resolution and extended support for megapixel, gigapixel and terapixels-per-frame video 360-degree surround-view landscapes used in AR/VR applications. Has powerful real-time 2D/3D VFX, image filters and alpha channel compositing with advanced object edge control and mixing to ensure realistic and unnoticeable real-time compositions. All the major colour-and-luminance correction tools are available at your finger tips along with advanced de-noise and image cleanup and support for hardware interfaces such as jog/shuttle controls, sliders/faders, dials, track balls, joysticks, mouse/finger pads and 3D volumetric controls.
+
+10) Audio Waveform Editor with support for multi-thousand-channel surround sound and multi-layer audio creation, editing, output and global secured distribution with built-in MIDI/MADI channel editing and input/output support, multi-thousand-voice polyphony and built-in multi-thousand instrument and digital voice patches at sample rates up to 64-bits per sample at up to 10 MHz sample rates. Has advanced noise and artifact reduction to ensure the cleanest sound output possible. We also support industry-standard audio hardware interfaces such as jog/shuttle controls, sliders/faders, dials, track balls, joysticks, mouse/finger pads and 3D volumetric controls.
+
+11) Still Photo Editor and Paint Program with Gigapixel and Terapixel support for all industry standard file formats and our in-house object oriented fractal-compressed URF file format. Powerful realtime filters, FX, composition and layer and powerful boolean logic-based cutting and pasting allow end-users to edit and create images from scratch using built-in rules-based-expert-system background in-fill and professional-level artistic paint and drawing expression toolsets. We also support industry-standard graphics production hardware interfaces such as jog/shuttle controls, sliders/faders, dials, track balls, joysticks, mouse/finger pads and 3D volumetric controls.
+
+12) 2D/3D Vector Drawing Editor and Design System with professional level 2D and 3D modeling and animation toolsets for professional-level RGB/YCbCr video and CMYK print-industry display and output, along with professional-level immersive world creation and 3D Modeller/Animator toolset for commercial video and global cinema production and AR/VR content production. Has advanced boolean logic clip, merge, exclude/include, cut and paste toolset for the fastest creation of high resolution realistic 2D and 3D polygon and curved-based models and vector-based drawings. We also support industry-standard vector drawing and animation production hardware interfaces such as jog/shuttle controls, sliders/faders, dials, track balls, joysticks, mouse/finger pads and 3D volumetric controls.
+
+13) 2D/3D CAD/CAM/FEA/Simulation Toolset using our built-in 2D/3D vector drawing modelling system that includes built-in precision-engineering-grade Aerodynamics, Fluid Dynamics, Thermal Dynamics, Chemical Dynamics, Material Dynamics and Electromagneto-Dynamics modelling and simulation tools that allow molecular and atomic-scale particle and wave interactions using real-world physics-based constraints and extrapolations to accurately model local and global-scale phenomena and create industrial systems and engineered products and scientific processes that have been well-tested and simulated on a computer first under real-world simulated conditions before final production and sale. Advanced scripting language lets you constrain, extrapolate, and set initial and intermediate data values or populate entire data sets with pre-made values so that entire products can be simulated and tested according to generally accepted engineering and physics principles.
+
+14) CNC Machining and 3D Printing Services support built-in for major G-Code and ObjectPascal Machine Control Script-supported CNC machines and 3D printers using singular or multi-material metals, polymers, rubbers, glasses and ceramics that have well-managed and secured printing queues and extensive tool-change parameters. We support short-run and long-run production with automated messaging and reminders to ensure tool changes, substrate changes and mold-making systems are effectively managed and overseen by local or globally-based personnel to ensure the highest product quality possible for home office, small-office, medium-size and industrial-scale CNC and 3D printing machines.
+
+15) Microchip Design Automation and Tape-Out/VHDL Toolset has advanced multi-layer chip-level and motherboard design and printing tools allowing you to design, create and simulate the most complex and transistor-heavy microcircuit designs and motherboard designs using automated and fully-manual means. We have product-ready freely-licenced soft-CPU/GPU/DSP/Vector processor intellectual property that lets you create microchips and motherboards in the fastest possible timeframes using the most-advanced and most generally accepted electrical engineering principles. 
+
+We support 4-bit, 8-bit, 16-bit, 24-bit, 32-bit, 48-bit, 64-bit, 96-bit, 128-bit, 192-bit and 256-bit wide processor architectures allowing for fast numeric processing of small and large signed and unsigned integer, floating point and fixed point math calculations and advanced storage, processing and manipulation for 8, 16, 32, 64, 128 and 256-bit wide RGBA/HSLA/YcbCrA pixel values and extra large terapixel bitmaps and advanced image storage and  manipulation of CMYK/CIE-LAB/CIE-XYZ hardcopy printing-oriented bitmaps. We have built-in convolution filter array processing at 2D-XY and 3D-XYZ filter kernels at 3x3/3x3x3, 5x5/5x5x5, 7x7/7x7x7 and 9x9/9x9x9 filter sets that are fully synchronous or asynchronous so that hardware interrupt-timed applications or event-driven programming is supported at the chip level using SIMD/MIMD commands so that up to millions to quadrillions of transactions per cycle can be done depending on the user-selected array processor block sizes. We support vector arrays of 1024 by 1024, 2048 by 2048, 4096 by 4096, 8192 by 8192, 16,384 by 16,384 up to 65,536 by 65,536 core and even mega-core by mega-core SIMD/MIMD vector processing blocks that each have their own tiny single-pipeline mini-cores of bitwise and full integer, floating point, fixed point and RGBA, YcbCrA, HSLA, CMYK, CIE-XYZ, CIE-LAB and boolean logic processing. We also support up to 64-bits wide at gigasamples per second multi-channel ADC/DAC general analogue and digital signal input/output optimized for SDR Radio and RADAR/LIDAR/SONAR applications
+
+16) Advanced files and folder management toolsets extend the modern file/folder metaphor into object oriented data indexing, search and management to allow end-users and organizations to keep track of and find relevant text, images, video, audio and metadata in the fastest times possible all with an always-encrypted, and fully-secured data storage sub-system that can be accessed on an authorized basis as per individual end-user-specific and globally-available group-specific policies. We can find and get the most-relevant portions of the largest files, and largest datasets that can span into the Yottabytes and beyond all returned in grouped-together, easy-to-understand and navigate file/folder panes.
+
+17) Built-in system maintenance tools and general system health utilities and security systems that allow end-users and system managers to better manage users and entire networks on a local-area and global network basis so that all corporate-and-organizational-owned systems can reliably secure and update both internally-owned and BYOD (Bring Your Own Device) personal/employee/contractor-owned devices without compromising personal privacy and while adhering to local internal, provincial/state, national and international regulatory data security and privacy standards.
+
+We have powerful Web Server, Email Server, File and Document Server, File Conversion and Rendering Server and Multimedia Streaming, and Media Distribution Servers all contained within the FireGrid Application Toolbar so that people can design, create, build, distribute and sell/rent/lease intellectual property and content and hard-goods product, and then interact, manage and communicate within a small to large business on a personal and organizational basis as per end-user and group-policy values in a well-secured and private manner. 
+
+---
+
+To achieve this objective of making a single Application Toolbar product that can create, manage and run the smallest one-person operation to the largest global organization, we have conducted basic and applied research since 1999 into video/audio compression algorithms, multimedia recording, processing and display engines, user interface technologies, advanced encryption & authentication systems, grid-based networking technologies and low-level database organization & access systems.
+
+Our advanced research & development allows us to create multimedia playback, recording and authoring systems that require little or no involvement of programmers or software engineers. These authoring systems are able to use their built-in intelligence to gather various inputs from the end-user and then understand the meaning and intent of the subject matter expert or graphics artist before creating a Secure Multimedia Display, Communications and Control system.
+
+Our FireGrid Media Engine is developed for and marketed as a both a programming library and as an interactive end-user toolbar to companies that require fast and easy ways to create platform-independent distributed Grid Processors which can drive and connect to massive databases that comprise petabytes and greater sizes of data ranging from simple text-based word processing documents, spreadsheets and PDF files up to very large libraries of still photos, interactive presentations, audio files, video files and binary data files and metadata streams of all types and sizes. 
+
+The FireGrid Application Toolbar act as a virtual supercomputer that aggregates all the available CPU, GPU and DSP  horsepower of your under-utilized servers, desktop machines, notebooks, tablets and even smartphones and smartwatches to form a smart-grid of assignable computer horsepower. Individual users and groups can request specific amounts of processing power and the FireGrid system will automatically group-together disparate computers of varying hardware platforms and operating systems to form a job-specific virtual supercomputer. 
+
+These processing nodes can be located anywhere on the world but will remain fully secured using our encrypted URF (Universal Resource File) data containers and our fully-secured and encrypted Internet communications system. This grid processing horsepower can now be used by any authorized single or group of users in a centrally managed or independent manner to perform common tasks related to
+GIS (Graphical Information Systems), 2D-XY and 3D-XYZ imaging, CAD/CAM/FEA (Computer Aided Design and Machining, Finite Element Analysis), 3D-printing and CNC machining, real-time multimedia streaming, high quality encrypted audio and video communications and any other tasks that your company can imagine and create. 
+
+Our built-in C/C++ and Object Pascal IDE (Integrated Development Environment) and compiler system ensures speedy design and deployment of your mission-critical applications that can be scaled up and out from a single-user up to enterprise-class cloud network applications that have Billions of simultaneous users and Billions of Input/Output operations per second!
+
+What is included in the FireGrid Application Toolbar itself?
+
+1) Encrypted, Multi-Stream Imaging Support for:
+
+a) Volumetric and 360° Surround-View Video/Audio/Text/Metadata File Storage, Playback, Recording and Global Streaming.
+
+b) Intelligent Grid Processing on Local Area and Global Networks created from user-defined groups of Servers, Desktop Computers, Laptops, Tablets, Smartphones, Smartwatches and embedded/IOT devices!
+
+2) Recording, playback, processing, rendering, management and distribution of high-resolution still images, video, text and binary metadata with has built-in support for DCI-16k, 8k, 4k and 1080p video at up to 10,000 fps and support for Gigapixel and Terapixel still photos at 64-bits wide per pixel RGBA, HSLA and hardcopy print-oriented CMYKA, CIE-XYZA/CIE-LABA formats, along with support for live and pre-recorded multi-channel and multi-layer video, multi-channel 64-bits per sample at up to 10 MHz sample rate audio and realtime-originated MetaData from GPS, SONAR, RADAR, LIDAR, InfraRed and UV imaging, Depth Maps, Temperature, Pressure and other GIS-oriented hardware sensor types.
+
+3) Built-In and Always-On Quantum computing-resistant encryption of stored-data and realtime audio, video and text communications using multiple encryption formats. The advanced object-oriented file and folder management system allows for full-encrypted virtual storage volumes that can be of any size and spanned across anywhere on the local network or the global internet into the Yottabytes and larger volume sizes. The encryption library supports both legacy encryption along with the latest quantum-computing-resistant ones such as:
+
+• AngelFish (8192-bit) Encrypter/Decrypter (Fast Ultra High-Security Encryption)
+
+• Supersingular Elliptic Curve Isogeny Cryptography Engine (Quantum Computing-resistant)
+
+• User-Defined One-Time Pad Cryptography Engine (Quantum Computing-resistant)
+
+• User-defined Digital Signature Handling and Verification
+
+• Built-in Digital Certificate of Authenticity and Data Source Verification Engine
+
+• Cryptographically-secure Random Number and Random Text Generation Engine (256 bits to 8192 bits wide random numbers)
+
+• Built-in Custom and Industry-standard Secure Hashing Algorithms for automatic user-specific, group-specific, binary file and document verification 
+
+Encryption of the FireGrid runtime library uses multiple industry-standard and custom encryption algorithms with very large encrypt/decrypt keys to ensure the security of the FireGrid API library itself plus all data and applications created by end-users. A built-in verification engine ensures that the FireGrid library and the applications that use it are validated with proper digital signatures indicating the verified sources of your software. Since encryption is ALWAYS ON, all data that resides within our secured URF (Universal Resource File) container files are automatically protected to commercial-level and above data security standards.
+
+4) Automated data indexing and categorization is standard. The object-oriented integrated development environment allows fast development of Easy-to-Use and Highly Scalable Applications with built-in auto-gridding that can process huge single and multi-dimensional data arrays up to 33 dimensions coupled to user interfaces that look and act the same no matter the platform.
+
+5) Secured and Encrypted End-user Toolbar Application and FireGrid API Library Server that lets the applications that you create with the FireGrid IDE use and manage both local machine and network gridded CPU/GPU/DSP routines that can run on your local machine, your local area network or a globally-gridded network of computers made up of a connected group of any type of fixed-base or mobile computer system.
+
+The API (Applications Programming Interface) library has built-in support for: 
+
+• Fast Integer/Fixed Point/Floating Point/BCD Math Routines Engine using 128-bits and 256-bits Wide Calculations
+
+• Huge-String ASCII and UNICODE Formatting, Handling and Text Parser Engine
+
+• Extended-state Boolean Logic and Neural Net Engine for standalone and networked Expert Systems and Artificial Intelligence applications development
+
+• SIMD/MIMD Single-Dimension and Multi-Dimensional Array Handling Engine (up to 33 dimensions!) at up to trillions and quadrillions+ of elements per array dimension
+
+The FireGrid API library ensures that the fastest CPU/GPU/DSP cores of any local or onboard CPU (Central Processing Unit), GPU (Graphics Processing Unit) or DSP (Digital Signal Processing) system are used for accelerating common signed and unsigned integers, fixed point and floating point values with all operations being up to 128-bits wide and 256-bits wide natively as per application-set and end-user preferences. We also have built-in very large value BCD (Binary Coded Decimal) math operations on single and multiple operands that support the absolute largest data values needed for esoteric scientific computation needs allowing Quadrillions of digits of precision. 
+
+It also has a built-in Network-Distributed and Automatic Load-Balancing Gridding Engine with extensive graphics imaging and rendering support at 16-bits per channel using 64 bits per colour pixel processing supporting the following:
+
+• 2D-XY, 3D-XYZ and 4D-XYZT (i.e. Time) Vector Line Drawing Engine 
+
+• Multi-format RGBA/GMYKA/HSLA/YCbCrA/YUV/CIE-XYZ/CIE-LAB Pixel Processing Library
+
+• 2D-XY/3D-XYZ Bitmap Manipulation, Filtering and Warping Engine (Gigapixel and Terapixel image support)
+
+• Multi-channel and multi-layer Audio Sample Manipulation, Filtering and Warping Engine (64 bits per sample at up to 10 Mhz sample rate support)
+
+• Multi-channel and multi-layer Video Frame Manipulation, Filtering and Warping Engine (DCI-16K resolution at 64-bits per pixel at up to 10,000 fps support)
+
+• Encrypted Binary Data, Multimedia and Text Streaming Engine allowing overlay of real-time live or pre-recorded metadata and text onto any still image, video stream, audio stream and GIS/Mapping system.
+
+• Natural Language Interpreter And Content Dispatcher that lets you query and control databases, CNC machines, 3D printers, robotics and other local and globally-located machines and peripherals using a natural human-centric query language.
+
+• Multi-channel Multimedia Playback and Recording System with 4k/8k/16k resolution grouped-by-function and grouped-by-name multi-monitor support with 360 degree surround view capability to allow for 3D immersion of end-users and developers into 3D animated or video-centric worlds that can simulate any situation. Very useful for training purposes and real-time gameplay.
+
+• Metadata Interpretation and Realtime Metadata Display and Overlay Engine which has advanced pixel formatting and manipulation, vector line and curve processing, audio/video/metadata filtering and processing, and high-end media content import/export/conversion routines ensure your multimedia streams can have real-time or pre-recorded metadata content overlaid on top of video and audio allowing for machine control and special-event systems such as controlling and synchronizing robotics, fireworks, lights, special effects and other hardware system that are handled quickly and at the highest quality and security levels required, auto-gridding if necessary to spread the workload to all available secured and authorized connected compute systems.
+
+• URF (Universal Resource File) Database Management System with fully-encrypted multi-storage-device spanned volumes that can be Yottabytes in size and accessible from any local or remote system with an Internet connection! End-users can create their own fully-secured databases with variable-sized
+or fixed-size records and customized data fields for access by external or in-house applications that has a built-in secure and distributed object-oriented file and folder handling, storage, indexing and search engine ensuring your files and data are properly organized, managed and acrhived for long term use.
+
+• Encrypted 2D/3D Web Browsing System
+
+• Encrypted Email, Realtime Text Messaging and Video Phone/Whiteboard System
+
+• Cloud-in-a-Box Services allows end-users to create 24/7/365 high-availability applications using our built-in FireGrid Application Maker that can deploy software that is accessible from any Server, Desktop, Laptop, Tablet, Smartphone, Smartwatch and many Embedded/Internet-of-Things (IOT) devices in a seamless multi-platform and multi-language manner.
+
+The built-in high-level content management and front-office/back-office applications allow end-users to manage and manipulate their files, folders, documents, email, instant-messaging and web services in the most secure and easy-to-use manner possible. We support both interactive use and batch-job use to ensure that your hundreds, thousands, millions, billions and even trillions+ of files and documents are handled in a fully-encrypted and verified manner. With our user group creation and management tools, you can easily and quickly ensure only those authorized can see or use the data and imagery you wish to make available locally or on the Web.
+
+If a user-specified time-limit is applied to any single or groups of data processing jobs, then local machine auto-gridding using ALL available cores will take place.
+
+---
+
+The COMPILED AND PAID-SUPPORT UNLIMITED MULTI-USER/MULTI-NODE/GRID-ENABLED VERSION of the toolbar itself will be made available for download sometime in 2nd Quarter 2026 and is free to use for 60 days and afterwards it won't be free BUT we will keep it cheap-to-buy at an internally discussed-but-may-change-in-the-future $149 CDN as a one-time payment with NO monthly or yearly subscription needed -- You buy it once and keep it forever! A smaller-scale single-user UNSUPPORTED compiled version will also be made free for use by non-commercial users.
+
+V
